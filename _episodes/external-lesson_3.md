@@ -1,5 +1,5 @@
 ---
-title: Link to slides - Repositories and Licensing
+title: Repositories and Licensing - video and slides
 teaching: null
 exercises: 15
 duration: null
