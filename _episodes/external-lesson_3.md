@@ -1,5 +1,5 @@
 ---
-title: Link to slides - Rights and Licensing
+title: Link to slides - Repositories and Licensing
 teaching: null
 exercises: 15
 duration: null
