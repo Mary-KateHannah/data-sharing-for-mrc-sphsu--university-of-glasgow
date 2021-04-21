@@ -58,11 +58,11 @@ Each tag is used in the same way, by including a section with a heading (`## hea
 
 > ## `{: .prereq}` Tag
 > This is a `{: .prereq}` tag block.
-> This tag is usually used to tell participants what they need before they can complete a lesson.
+> This tag is usually used to tell participants what they need before they can complete a lesson. EVERYTHING HERE IS BLUE
 {: .prereq}
 
 > ## `{: .callout}` Tag
-> This is a `{: .callout}` tag block. EVERYTHING HERE IS BLUE
+> This is a `{: .callout}` tag block. EVERYTHING HERE IS YELLOW
 > This tag is usually used to highlight something participants should take note of.
 {: .callout}
 
