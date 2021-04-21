@@ -1,5 +1,5 @@
 ---
-title: External Lesson
+title: Data Sharing Process
 teaching: 5
 exercises: 10
 duration: null
