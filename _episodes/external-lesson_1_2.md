@@ -1,7 +1,7 @@
 ---
-title: External Lesson
-teaching: null
-exercises: 20
+title: Case Study - video and slides for discussion
+teaching: 5
+exercises: 10
 duration: null
 summary: This template shows you how to use an external tutorial as a lesson.
 questions: null
@@ -21,8 +21,8 @@ dependencies: []
 originalRepository: UKRN-Open-Research/ukrn-wb-lesson-templates
 
 ---
-> ## FigShare tutorial `20 min`
-> For this lesson we are going to be following through the FigShare tutorial:
+> ## FigShare tutorial `15 min`
+> For this lesson we are going to be following through the FigShare tutorial NEED TO EDIT THIS TO ADD CASE STUDY INSTEAD OF FIGSHARE: 
 > <a href="https://help.figshare.com/article/how-to-upload-and-publish-your-data" target="_blank">https://help.figshare.com/article/how-to-upload-and-publish-your-data</a>
 >
 > The link will open in a new tab.
