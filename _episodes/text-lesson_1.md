@@ -25,7 +25,7 @@ The **Workshop Builder** has a markdown editor, so it should not be _too difficu
 
 In addition to this, the website template we use has a variety of special highlighted sections that we use to draw attention to things.
 
-### Lesson sections
+### EDITED Lesson sections
 
 The following lesson section tags are available:
 * `{: .prereq}`
