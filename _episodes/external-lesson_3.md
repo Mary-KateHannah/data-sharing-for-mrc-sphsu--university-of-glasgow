@@ -1,5 +1,5 @@
 ---
-title: External Lesson - Rights and Licensing
+title: Link to slides - Rights and Licensing
 teaching: null
 exercises: 15
 duration: null
