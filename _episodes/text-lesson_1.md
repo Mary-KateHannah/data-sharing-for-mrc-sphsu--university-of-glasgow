@@ -11,7 +11,7 @@ keypoints: null
 is-break: null
 ukrn_wb_rules:
   - allow-multiple
-day: 2
+day: ""
 order: 100000
 missingDependencies: []
 dependencies: []
