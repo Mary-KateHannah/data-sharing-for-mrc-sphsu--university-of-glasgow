@@ -6,11 +6,11 @@ duration: null
 summary: This template shows you how to use an external tutorial as a lesson.
 questions: null
 objectives:
-  - Understand how to upload files to FigShare
+  - Understand how to upload files to UK Data Service ReShare
 keypoints:
-  - You have 20gb of private data and unlimited public data
-  - You can upload files up to 5gb in size through your browser
-  - You can upload bigger files by request
+  - Licence types for ReShare
+  - Open
+  - Safeguarded
 is-break: null
 ukrn_wb_rules:
   - allow-multiple
