@@ -1,7 +1,7 @@
 ---
-title: External Lesson
+title: External Lesson - Rights and Licensing
 teaching: null
-exercises: 20
+exercises: 15
 duration: null
 summary: This template shows you how to use an external tutorial as a lesson.
 questions: null
