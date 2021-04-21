@@ -21,9 +21,9 @@ dependencies: []
 originalRepository: UKRN-Open-Research/ukrn-wb-lesson-templates
 
 ---
-> ## FigShare tutorial `15 min`
-> For this lesson we are going to be following through the FigShare tutorial NEED TO EDIT THIS:
-> <a href="https://help.figshare.com/article/how-to-upload-and-publish-your-data" target="_blank">https://help.figshare.com/article/how-to-upload-and-publish-your-data</a>
+> ## ReShare tutorial `10 min`
+> For this lesson we are going to be following through the ReShare tutorial:
+> <a href="How to deposit your data in UK Data Service ReShare" target="_blank">https://www.youtube.com/watch?v=X4wXQg-g5eE&t=7s</a>
 >
 > The link will open in a new tab.
 > When you have completed the tutorial, you can close the tab.
