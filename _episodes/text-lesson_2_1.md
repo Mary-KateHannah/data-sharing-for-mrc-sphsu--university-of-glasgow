@@ -12,7 +12,7 @@ is-break: null
 ukrn_wb_rules:
   - allow-multiple
 day: 1
-order: 100000
+order: 400000
 missingDependencies: []
 dependencies: []
 originalRepository: emma-wilson/data-sharing-workshop
