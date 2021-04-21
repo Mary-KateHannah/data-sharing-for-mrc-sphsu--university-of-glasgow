@@ -62,7 +62,7 @@ Each tag is used in the same way, by including a section with a heading (`## hea
 {: .prereq}
 
 > ## `{: .callout}` Tag
-> This is a `{: .callout}` tag block.
+> This is a `{: .callout}` tag block. EVERYTHING HERE IS BLUE
 > This tag is usually used to highlight something participants should take note of.
 {: .callout}
 
